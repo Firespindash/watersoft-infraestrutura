@@ -9,7 +9,7 @@ Planejamento de infraestrutura para uma empresa fictícia de consultoria com 4 a
 * `05-IoT/`: código, circuito e três testes.
 * `07-Referencias/`: referências usadas durante o projeto.
 
-Evidências que seria o 06 dentro das outras pastas.
+Evidências que seria o 06 está dentro das outras pastas.
 
 ## Como consultar
 Comece por `01-Empresa` e siga as pastas `02` a `07`. Em cada uma, abra a planilha ou explicação principal indicada.
@@ -18,6 +18,6 @@ Comece por `01-Empresa` e siga as pastas `02` a `07`. Em cada uma, abra a planil
 Tinkercad:
 
 
-**Ferramentas:** Draw.io, Packet Tracer, Tinkercad e GitHub.
+**Ferramentas:** Draw.io, Tinkercad e GitHub.
 
-**Última atualização:** 18/10/2026
+**Última atualização:** 01/11/2026
