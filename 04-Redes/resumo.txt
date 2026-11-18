@@ -1,0 +1,27 @@
+Resumo das VLANs/IPs.
+Roteador IP: 192.168.10.1
+VLAN 10 - Térreo - Administração
+Térreo PC 1 IP: 192.168.10.10
+Térreo PC 2 IP: 192.168.10.11
+VLAN 20 - 1 Andar - Marketing
+1 Andar PC IP: 192.168.20.20
+AP Visitantes IP: 192.168.20.1
+VLAN 30 - 2 Andar Infraestrutura
+2 Andar PC IP: 192.168.30.30
+VLAN - 40 - 3 Andar - IOT/Dispositivos
+AP IOT IP: 192.168.40.1
+Câmera IP: 192.168.40.10
+VLAN - 50 - 4 Andar - TI/Consultores
+4 Andar PC 1 IP: 192.168.50.10
+4 Andar PC 2 IP: 192.168.50.20
+Servidor IP: 192.168.10.50
+Orçamento
+Roteador / valor: R$ 380,00
+Switch / valor: R$ 750,00
+Ponto de Acesso WI-FI / valor: R$360,00
+Câmera / valor: R$220,00
+Servidor Corporativo/ valor: R$2.800,00
+Computadores / valor: R$17.500,00
+cabo / valor: R$350,00
+conectores e materiais / valor: R$280,00
+Valor Total = R$ 22.640,00
