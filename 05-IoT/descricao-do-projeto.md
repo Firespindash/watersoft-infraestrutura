@@ -1,0 +1,3 @@
+Neste projeto, propõe-se o desenvolvimento de um sensor de temperatura destinado ao monitoramento de uma sala de servidores. O sistema permitirá acompanhar a temperatura do ambiente em tempo real, contribuindo para o aumento da segurança e da confiabilidade dos equipamentos.
+
+Por meio desse monitoramento, será possível identificar se a temperatura da sala está dentro dos limites adequados de funcionamento ou se há sinais de superaquecimento. Dessa forma, o projeto busca prevenir possíveis danos aos servidores, evitar falhas decorrentes de temperaturas elevadas e garantir melhores condições para o funcionamento dos equipamentos.
